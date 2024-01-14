@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madin Bloch</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" alt="codingImage" width="400px" align="right" />
+<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="codingImage" width="400px" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinbloch&label=Profile%20views&color=0e75b6&style=flat" alt="madinbloch" /> </p>
 

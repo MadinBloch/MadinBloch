@@ -1,25 +1,113 @@
-<h1 align="center">Hi 👋, I'm Madin Bloch</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="codingImage" width="400px" align="right" />
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madinbloch&label=Profile%20views&color=0e75b6&style=flat" alt="madinbloch" /> </p>
+<img src="https://komarev.com/ghpvc/?username=madinbloch&label=Profile%20views&color=10b981&style=flat" alt="madinbloch" />
 
-- 🌱 I’m currently learning **JavaScript**
+# Madin Bloch
+### Laravel Developer · Backend Engineer · AWS
 
-- 📫 How to reach me **madinkhan0633@gmail.com**
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="340" alt="coding gif"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/madin-bloch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madin-bloch/" height="30" width="40" /></a>
-<a href="[www.instagram.com/madinthecoder/](https://www.instagram.com/madinbloch/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/madinthecoder/" height="30" width="40" /></a>
-<a href="https://youtube.com/@madinbloch0633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@madinbloch0633" height="30" width="40" /></a>
+*Building production-ready backend systems — not side projects.*
+
+</div>
+
+---
+
+### 🧑‍💻 About
+
+- 1.5+ years building **real Laravel applications** used in production
+- Worked on: HRM systems, print workflow tools, bulk email engines, custom CMS
+- Deploy on **AWS EC2** — Nginx, PHP-FPM, SSL, domain config from scratch
+- Currently learning **Docker** and **CI/CD pipelines**
+- Grand Finalist · **New India Vibrant Hackathon 2023**
+
+---
+
+### 💼 Experience
+
+```
+Laravel Developer                                         2023 – Present
+├── Built Smart Print System   → job queuing, order tracking, status flows
+├── Built HRM System           → employee records, leave, attendance, reports
+├── Built Email Campaign Tool  → queue-based bulk email + scheduling
+├── Built Kesari CMS           → custom CMS for real client content management
+└── Deployed on AWS EC2        → Nginx, PHP-FPM, SSL, zero-downtime deploys
+
+Currently Exploring                                       2024 – Present
+└── Docker · GitHub Actions · CI/CD pipelines · deployment automation
+```
+
+---
+
+### 🛠 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Smart Print System** | Job queue, order tracking, print workflow management | Laravel, MySQL |
+| **HRM System** | Employee records, leave, attendance & reporting | Laravel, MySQL |
+| **Email Campaign System** | Queue-based bulk email with scheduling & tracking | Laravel, Queue Jobs |
+| **Kesari CMS** | Custom content management system for client | Laravel, Livewire |
+| **Kesari Select** | Live client website → [kesariselect.com](https://www.kesariselect.com/) | Laravel |
+
+---
+
+### ⚙️ DevOps
+
+```bash
+✔  AWS EC2       — provisioned and managed production servers
+✔  Nginx         — reverse proxy, virtual hosts, server blocks
+✔  PHP-FPM       — pool config tuned for production
+✔  SSL / Domain  — Let's Encrypt certs, custom domain routing
+◎  Docker        — learning containerisation for Laravel apps
+◎  CI/CD         — learning GitHub Actions for automated deploys
+```
+
+---
+
+### 🔧 Tech Stack
+
+<p align="center">
+  <a href="https://laravel.com"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="42" height="42" alt="Laravel" title="Laravel"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL" title="MySQL"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://livewire.laravel.com"><img src="https://laravel-livewire.com/img/twitter.png" width="42" height="42" alt="Livewire" title="Livewire"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" title="React (basic)"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" title="AWS EC2"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nginx.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx" title="Nginx"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker (learning)"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind" title="Tailwind CSS"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madinbloch&show_icons=true&locale=en&layout=compact" alt="madinbloch" /></p>
+### 📬 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madinbloch&show_icons=true&locale=en" alt="madinbloch" /></p>
+<p align="center">
+  <a href="mailto:madinbloch@gmail.com"><img src="https://img.shields.io/badge/Email-madinbloch@gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/madinbloch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-madinbloch-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://youtube.com/@madinbloch0633" target="_blank"><img src="https://img.shields.io/badge/YouTube-@madinbloch0633-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/madinbloch/" target="_blank"><img src="https://img.shields.io/badge/Instagram-madinbloch-e1306c?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://madinbloch.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-Hashnode-2962ff?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madinbloch&" alt="madinbloch" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madinbloch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madinbloch&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madinbloch&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<div align="center">
+  <sub>Laravel · PHP · MySQL · AWS · Nginx · Always shipping.</sub>
+</div>

@@ -1,6 +1,3 @@
-Poora `README.md` — [MadinBloch/MadinBloch](https://github.com/MadinBloch/MadinBloch) pe paste kar do (`mainBanner.png` already repo mein hai):
-
-```md
 <!-- =========================================================
   Madin Bloch — GitHub Profile README
   https://github.com/MadinBloch
@@ -203,4 +200,3 @@ More case studies → **[madin-bloch.vercel.app](https://madin-bloch.vercel.app/
 ⭐ [MadinBloch](https://github.com/MadinBloch) — open to Laravel / backend roles
 
 </div>
-```
